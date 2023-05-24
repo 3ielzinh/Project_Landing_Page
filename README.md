@@ -1,22 +1,24 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0093E9&height=170&section=header&text=&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&fontAlign=80"/>
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0093E9&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks!;+Welcome+to+my+Repository)](https://git.io/typing-svg)
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+# Preview
+![Design sem nome (9)](https://github.com/3ielzinh/Project-GameShop/assets/110487772/d06427a7-ae30-4684-9e2b-44f19529d74f)
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+<br>
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+# About
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+Projeto desenvolvido pela plataforma DIO, onde foi construído uma landing page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+
+<br>
+
+# Skills used
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:0093E9&height=170&section=footer&text=&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=65&fontAlign=23"/>
